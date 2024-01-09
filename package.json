@@ -1,0 +1,16 @@
+{
+  "name": "heic-to-jpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gm": "^1.25.0",
+    "heic-convert": "^2.1.0"
+  }
+}
